@@ -10,7 +10,7 @@ sudo apt install git -y
 
 # clone project
 .....
-clone project github.com/Priyanka-N-Raut/linux-calculator-project
+clone project https://github.com/Priyanka-N-Raut/linux-calculator-project.git
 linux-calculator-project
 chmod +x calculator.sh 
 ./calculator.sh
