@@ -1,25 +1,15 @@
-# linux-calculator-project
-3/7/2025 lilnux calculator project 
+## 🔧 How to Clone and Run the Project
 
-# prerequisites
-''''
-sudo yum instal git -y
-or
-sudo apt install git -y 
-'''''
+```bash
+# Clone the repository
+git clone https://github.com/Priyanka-N-Raut/linux-calculator-project.git
 
-# clone project
-''''
-clone project https://github.com/Priyanka-N-Raut/linux-calculator-project.git
-linux-calculator-project
-chmod +x calculator.sh 
+# Change directory
+cd linux-calculator-project
+
+# Make the script executable
+chmod +x calculator.sh
+
+# Run the script
 ./calculator.sh
-''''
 
-# how to run
-''''
-touch calculator.sh
-nano calculator.sh 
-chmod +x calculator.sh 
-./calculator.sh 
-''''
