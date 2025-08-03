@@ -1,3 +1,11 @@
+# linux-calculator-project
+
+## Prerequisites
+```sudo yum install git -y
+or
+sudo apt install git -y
+```
+
 ## 🔧 How to Clone and Run the Project
 
 ```bash
