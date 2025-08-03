@@ -1,7 +1,8 @@
 # linux-calculator-project
 
 ## Prerequisites
-```sudo yum install git -y
+```
+sudo yum install git -y
 or
 sudo apt install git -y
 ```
